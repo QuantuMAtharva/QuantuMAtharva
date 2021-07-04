@@ -29,18 +29,18 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://bit.ly/36aAYqh" target="_blank">
-  <img src="https://img.shields.io/badge/-Visit_my_Website-EA4335?style=flat&logo=blogger&logoColor=white&link=https://bit.ly/36aAYqh"></img>
+    <img src="https://img.shields.io/badge/-Visit_my_Website-EA4335?style=flat&logo=blogger&logoColor=white&link=https://bit.ly/36aAYqh" />
   </a>
   <a href="https://bit.ly/36aAYqh" target="_blank">
-  <img src="https://img.shields.io/badge/-Contact_Me-BB001B?style=flat&logo=Gmail&logoColor=white&link=https://bit.ly/36aAYqh" />
+    <img src="https://img.shields.io/badge/-Contact_Me-BB001B?style=flat&logo=Gmail&logoColor=white&link=https://bit.ly/36aAYqh" />
   </a>
   <a href="https://bit.ly/36aAYqh" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://bit.ly/36aAYqh"  />
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://bit.ly/36aAYqh" />
   </a>
   <a href="http://github.com/QuantuMAtharva">
-  <img src="https://img.shields.io/github/followers/QuantuMAtharva?label=follow&style=social" />
+    <img src="https://img.shields.io/github/followers/QuantuMAtharva?label=follow&style=social" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=QuantuMAtharva&style=flat&color=0b98d9"  /> 
+  <img src="https://komarev.com/ghpvc/?username=QuantuMAtharva&style=flat&color=0b98d9" /> 
 </p>
 
 <p align="center">
