@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love playing Table Tennis and Piano
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=QuantuMAtharva&count_private=true&show_icons=true&theme=blue-green&include_all_commits=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantuMAtharva&theme=blue-green&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantuMAtharva&theme=blue-green&count_private=true&&include_all_commits=true">
 
 <br>
 <br>
